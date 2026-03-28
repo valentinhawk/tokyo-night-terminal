@@ -121,7 +121,7 @@ Copy [`themes/warp.yaml`](themes/warp.yaml) (dark) or [`themes/warp-light.yaml`]
 
 ## Credits
 
-Color palette by [enkia](https://github.com/tokyo-night/tokyo-night-vscode-theme), licensed under MIT.
+Color palette inspired by [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme). Terminal colors sourced from [terminalcolors.com](https://terminalcolors.com/themes/tokyo-night/).
 
 ## License
 
