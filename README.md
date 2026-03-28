@@ -20,21 +20,13 @@ A clean, dark theme for your terminal. One command to install on any OS.
 
 ### With Claude Code (AI-powered)
 
-Clone the repo, then open [Claude Code](https://claude.ai/code) inside it:
-
-```bash
-git clone https://github.com/valentinhawk/tokyo-night-terminal.git
-cd tokyo-night-terminal
-claude
-```
-
-Then just type:
+Open [Claude Code](https://claude.ai/code) in your terminal and paste this:
 
 ```
-Install the theme
+Clone https://github.com/valentinhawk/tokyo-night-terminal and run the install script to install the Tokyo Night theme on my terminal. Detect my OS and terminal automatically.
 ```
 
-Claude reads the CLAUDE.md, detects your OS and terminal, and installs everything automatically.
+That's it. Claude will clone the repo, detect your OS (Windows, macOS, or Linux), find your terminal, and install the theme automatically.
 
 ### With the install script
 
