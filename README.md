@@ -2,8 +2,6 @@
 
 A clean, dark theme for your terminal. One command to install on any OS.
 
-![Tokyo Night](https://raw.githubusercontent.com/enkia/tokyo-night-vscode-theme/master/static/ss_tokyo_night.png)
-
 ## Colors
 
 | Color | Hex | Preview |
