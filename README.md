@@ -4,17 +4,17 @@ A clean, dark theme for your terminal. One command to install on any OS.
 
 ## Colors
 
-| Color | Hex | Preview |
-|-------|-----|---------|
-| Background | `#1A1B26` | ![#1A1B26](https://via.placeholder.com/16/1A1B26/1A1B26.png) |
-| Foreground | `#C0CAF5` | ![#C0CAF5](https://via.placeholder.com/16/C0CAF5/C0CAF5.png) |
-| Black | `#15161E` | ![#15161E](https://via.placeholder.com/16/15161E/15161E.png) |
-| Red | `#F7768E` | ![#F7768E](https://via.placeholder.com/16/F7768E/F7768E.png) |
-| Green | `#9ECE6A` | ![#9ECE6A](https://via.placeholder.com/16/9ECE6A/9ECE6A.png) |
-| Yellow | `#E0AF68` | ![#E0AF68](https://via.placeholder.com/16/E0AF68/E0AF68.png) |
-| Blue | `#7AA2F7` | ![#7AA2F7](https://via.placeholder.com/16/7AA2F7/7AA2F7.png) |
-| Purple | `#BB9AF7` | ![#BB9AF7](https://via.placeholder.com/16/BB9AF7/BB9AF7.png) |
-| Cyan | `#7DCFFF` | ![#7DCFFF](https://via.placeholder.com/16/7DCFFF/7DCFFF.png) |
+| Color | Hex | |
+|-------|-----|-|
+| Background | `#1A1B26` | ![](https://img.shields.io/badge/_-1A1B26?style=flat-square&color=1A1B26) |
+| Foreground | `#C0CAF5` | ![](https://img.shields.io/badge/_-C0CAF5?style=flat-square&color=C0CAF5) |
+| Black | `#15161E` | ![](https://img.shields.io/badge/_-15161E?style=flat-square&color=15161E) |
+| Red | `#F7768E` | ![](https://img.shields.io/badge/_-F7768E?style=flat-square&color=F7768E) |
+| Green | `#9ECE6A` | ![](https://img.shields.io/badge/_-9ECE6A?style=flat-square&color=9ECE6A) |
+| Yellow | `#E0AF68` | ![](https://img.shields.io/badge/_-E0AF68?style=flat-square&color=E0AF68) |
+| Blue | `#7AA2F7` | ![](https://img.shields.io/badge/_-7AA2F7?style=flat-square&color=7AA2F7) |
+| Purple | `#BB9AF7` | ![](https://img.shields.io/badge/_-BB9AF7?style=flat-square&color=BB9AF7) |
+| Cyan | `#7DCFFF` | ![](https://img.shields.io/badge/_-7DCFFF?style=flat-square&color=7DCFFF) |
 
 ## Install
 
