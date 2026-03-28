@@ -33,7 +33,7 @@ Claude will detect your OS and terminal automatically, then install the theme fo
 ### With the install script
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tokyo-night-terminal.git
+git clone https://github.com/valentinhawk/tokyo-night-terminal.git
 cd tokyo-night-terminal
 bash install.sh
 ```
