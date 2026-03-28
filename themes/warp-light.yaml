@@ -1,0 +1,23 @@
+name: Tokyo Night Light
+accent: "#2E7DE9"
+background: "#E1E2E7"
+foreground: "#3760BF"
+terminal_colors:
+  normal:
+    black: "#B4B5B9"
+    red: "#F52A65"
+    green: "#587539"
+    yellow: "#8C6C3E"
+    blue: "#2E7DE9"
+    magenta: "#9854F1"
+    cyan: "#007197"
+    white: "#6172B0"
+  bright:
+    black: "#A1A6C5"
+    red: "#F52A65"
+    green: "#587539"
+    yellow: "#8C6C3E"
+    blue: "#2E7DE9"
+    magenta: "#9854F1"
+    cyan: "#007197"
+    white: "#3760BF"
