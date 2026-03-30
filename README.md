@@ -1,4 +1,4 @@
-# Tokyo Night Terminal
+# ✦ Tokyo Night Terminal
 
 Tokyo Night color scheme for every terminal emulator. Dark and Light variants. One command to install.
 
